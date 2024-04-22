@@ -1,0 +1,2 @@
+insert into zamowienia (idzamowienia, data, status, idklienta, idksiazki) 
+values (null, 2016.01.01, oczekiwanie, 7, 3)
